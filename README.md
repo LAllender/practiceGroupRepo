@@ -1,3 +1,3 @@
-# practiceGroupRep
+# practiceGroupRepo
 
-rgultiano - adding a comment to the Readme!o
+A repository created to practice sharing work and collaborating on projects using gitHub.
